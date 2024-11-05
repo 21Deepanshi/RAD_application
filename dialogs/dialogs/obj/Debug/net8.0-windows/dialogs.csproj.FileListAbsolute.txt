@@ -1,0 +1,16 @@
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dialogs\bin\Debug\net8.0-windows\dialogs.exe
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dialogs\bin\Debug\net8.0-windows\dialogs.deps.json
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dialogs\bin\Debug\net8.0-windows\dialogs.runtimeconfig.json
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dialogs\bin\Debug\net8.0-windows\dialogs.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dialogs\bin\Debug\net8.0-windows\dialogs.pdb
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dialogs\obj\Debug\net8.0-windows\dialogs.Form1.resources
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dialogs\obj\Debug\net8.0-windows\dialogs.csproj.GenerateResource.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dialogs\obj\Debug\net8.0-windows\dialogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dialogs\obj\Debug\net8.0-windows\dialogs.AssemblyInfoInputs.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dialogs\obj\Debug\net8.0-windows\dialogs.AssemblyInfo.cs
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dialogs\obj\Debug\net8.0-windows\dialogs.csproj.CoreCompileInputs.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dialogs\obj\Debug\net8.0-windows\dialogs.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dialogs\obj\Debug\net8.0-windows\refint\dialogs.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dialogs\obj\Debug\net8.0-windows\dialogs.pdb
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dialogs\obj\Debug\net8.0-windows\dialogs.genruntimeconfig.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dialogs\obj\Debug\net8.0-windows\ref\dialogs.dll

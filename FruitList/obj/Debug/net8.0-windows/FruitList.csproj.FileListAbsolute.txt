@@ -1,0 +1,16 @@
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\FruitList\bin\Debug\net8.0-windows\FruitList.exe
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\FruitList\bin\Debug\net8.0-windows\FruitList.deps.json
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\FruitList\bin\Debug\net8.0-windows\FruitList.runtimeconfig.json
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\FruitList\bin\Debug\net8.0-windows\FruitList.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\FruitList\bin\Debug\net8.0-windows\FruitList.pdb
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\FruitList\obj\Debug\net8.0-windows\FruitList.Form1.resources
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\FruitList\obj\Debug\net8.0-windows\FruitList.csproj.GenerateResource.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\FruitList\obj\Debug\net8.0-windows\FruitList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\FruitList\obj\Debug\net8.0-windows\FruitList.AssemblyInfoInputs.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\FruitList\obj\Debug\net8.0-windows\FruitList.AssemblyInfo.cs
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\FruitList\obj\Debug\net8.0-windows\FruitList.csproj.CoreCompileInputs.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\FruitList\obj\Debug\net8.0-windows\FruitList.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\FruitList\obj\Debug\net8.0-windows\refint\FruitList.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\FruitList\obj\Debug\net8.0-windows\FruitList.pdb
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\FruitList\obj\Debug\net8.0-windows\FruitList.genruntimeconfig.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\FruitList\obj\Debug\net8.0-windows\ref\FruitList.dll
