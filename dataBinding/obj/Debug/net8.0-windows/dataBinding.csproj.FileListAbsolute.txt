@@ -1,0 +1,16 @@
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dataBinding\obj\Debug\net8.0-windows\dataBinding.Form1.resources
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dataBinding\obj\Debug\net8.0-windows\dataBinding.csproj.GenerateResource.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dataBinding\obj\Debug\net8.0-windows\dataBinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dataBinding\obj\Debug\net8.0-windows\dataBinding.AssemblyInfoInputs.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dataBinding\obj\Debug\net8.0-windows\dataBinding.AssemblyInfo.cs
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dataBinding\obj\Debug\net8.0-windows\dataBinding.csproj.CoreCompileInputs.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dataBinding\bin\Debug\net8.0-windows\dataBinding.exe
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dataBinding\bin\Debug\net8.0-windows\dataBinding.deps.json
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dataBinding\bin\Debug\net8.0-windows\dataBinding.runtimeconfig.json
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dataBinding\bin\Debug\net8.0-windows\dataBinding.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dataBinding\bin\Debug\net8.0-windows\dataBinding.pdb
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dataBinding\obj\Debug\net8.0-windows\dataBinding.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dataBinding\obj\Debug\net8.0-windows\refint\dataBinding.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dataBinding\obj\Debug\net8.0-windows\dataBinding.pdb
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dataBinding\obj\Debug\net8.0-windows\dataBinding.genruntimeconfig.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\dataBinding\obj\Debug\net8.0-windows\ref\dataBinding.dll
