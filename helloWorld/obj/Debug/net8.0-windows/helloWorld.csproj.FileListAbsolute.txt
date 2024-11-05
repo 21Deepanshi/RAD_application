@@ -1,0 +1,16 @@
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\helloWorld\bin\Debug\net8.0-windows\helloWorld.exe
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\helloWorld\bin\Debug\net8.0-windows\helloWorld.deps.json
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\helloWorld\bin\Debug\net8.0-windows\helloWorld.runtimeconfig.json
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\helloWorld\bin\Debug\net8.0-windows\helloWorld.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\helloWorld\bin\Debug\net8.0-windows\helloWorld.pdb
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\helloWorld\obj\Debug\net8.0-windows\helloWorld.Form1.resources
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\helloWorld\obj\Debug\net8.0-windows\helloWorld.csproj.GenerateResource.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\helloWorld\obj\Debug\net8.0-windows\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\helloWorld\obj\Debug\net8.0-windows\helloWorld.AssemblyInfoInputs.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\helloWorld\obj\Debug\net8.0-windows\helloWorld.AssemblyInfo.cs
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\helloWorld\obj\Debug\net8.0-windows\helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\helloWorld\obj\Debug\net8.0-windows\helloWorld.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\helloWorld\obj\Debug\net8.0-windows\refint\helloWorld.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\helloWorld\obj\Debug\net8.0-windows\helloWorld.pdb
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\helloWorld\obj\Debug\net8.0-windows\helloWorld.genruntimeconfig.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\helloWorld\obj\Debug\net8.0-windows\ref\helloWorld.dll
