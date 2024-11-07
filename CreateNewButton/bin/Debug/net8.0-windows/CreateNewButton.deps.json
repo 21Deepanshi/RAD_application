@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CreateNewButton/1.0.0": {
+        "runtime": {
+          "CreateNewButton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreateNewButton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

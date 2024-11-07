@@ -1,0 +1,16 @@
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\TreeViewDetails\bin\Debug\net8.0-windows\TreeViewDetails.exe
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\TreeViewDetails\bin\Debug\net8.0-windows\TreeViewDetails.deps.json
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\TreeViewDetails\bin\Debug\net8.0-windows\TreeViewDetails.runtimeconfig.json
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\TreeViewDetails\bin\Debug\net8.0-windows\TreeViewDetails.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\TreeViewDetails\bin\Debug\net8.0-windows\TreeViewDetails.pdb
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\TreeViewDetails\obj\Debug\net8.0-windows\TreeViewDetails.Form1.resources
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\TreeViewDetails\obj\Debug\net8.0-windows\TreeViewDetails.csproj.GenerateResource.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\TreeViewDetails\obj\Debug\net8.0-windows\TreeViewDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\TreeViewDetails\obj\Debug\net8.0-windows\TreeViewDetails.AssemblyInfoInputs.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\TreeViewDetails\obj\Debug\net8.0-windows\TreeViewDetails.AssemblyInfo.cs
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\TreeViewDetails\obj\Debug\net8.0-windows\TreeViewDetails.csproj.CoreCompileInputs.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\TreeViewDetails\obj\Debug\net8.0-windows\TreeViewDetails.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\TreeViewDetails\obj\Debug\net8.0-windows\refint\TreeViewDetails.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\TreeViewDetails\obj\Debug\net8.0-windows\TreeViewDetails.pdb
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\TreeViewDetails\obj\Debug\net8.0-windows\TreeViewDetails.genruntimeconfig.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\TreeViewDetails\obj\Debug\net8.0-windows\ref\TreeViewDetails.dll

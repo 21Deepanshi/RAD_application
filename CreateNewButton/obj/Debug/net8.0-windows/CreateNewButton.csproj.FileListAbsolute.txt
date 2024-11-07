@@ -1,0 +1,16 @@
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\CreateNewButton\bin\Debug\net8.0-windows\CreateNewButton.exe
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\CreateNewButton\bin\Debug\net8.0-windows\CreateNewButton.deps.json
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\CreateNewButton\bin\Debug\net8.0-windows\CreateNewButton.runtimeconfig.json
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\CreateNewButton\bin\Debug\net8.0-windows\CreateNewButton.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\CreateNewButton\bin\Debug\net8.0-windows\CreateNewButton.pdb
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\CreateNewButton\obj\Debug\net8.0-windows\CreateNewButton.Form1.resources
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\CreateNewButton\obj\Debug\net8.0-windows\CreateNewButton.csproj.GenerateResource.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\CreateNewButton\obj\Debug\net8.0-windows\CreateNewButton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\CreateNewButton\obj\Debug\net8.0-windows\CreateNewButton.AssemblyInfoInputs.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\CreateNewButton\obj\Debug\net8.0-windows\CreateNewButton.AssemblyInfo.cs
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\CreateNewButton\obj\Debug\net8.0-windows\CreateNewButton.csproj.CoreCompileInputs.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\CreateNewButton\obj\Debug\net8.0-windows\CreateNewButton.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\CreateNewButton\obj\Debug\net8.0-windows\refint\CreateNewButton.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\CreateNewButton\obj\Debug\net8.0-windows\CreateNewButton.pdb
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\CreateNewButton\obj\Debug\net8.0-windows\CreateNewButton.genruntimeconfig.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\sodv\CreateNewButton\obj\Debug\net8.0-windows\ref\CreateNewButton.dll
