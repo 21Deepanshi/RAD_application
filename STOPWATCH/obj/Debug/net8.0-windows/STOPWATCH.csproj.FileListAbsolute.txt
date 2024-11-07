@@ -1,0 +1,16 @@
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\STOPWATCH\bin\Debug\net8.0-windows\STOPWATCH.exe
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\STOPWATCH\bin\Debug\net8.0-windows\STOPWATCH.deps.json
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\STOPWATCH\bin\Debug\net8.0-windows\STOPWATCH.runtimeconfig.json
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\STOPWATCH\bin\Debug\net8.0-windows\STOPWATCH.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\STOPWATCH\bin\Debug\net8.0-windows\STOPWATCH.pdb
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\STOPWATCH\obj\Debug\net8.0-windows\STOPWATCH.Form1.resources
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\STOPWATCH\obj\Debug\net8.0-windows\STOPWATCH.csproj.GenerateResource.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\STOPWATCH\obj\Debug\net8.0-windows\STOPWATCH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\STOPWATCH\obj\Debug\net8.0-windows\STOPWATCH.AssemblyInfoInputs.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\STOPWATCH\obj\Debug\net8.0-windows\STOPWATCH.AssemblyInfo.cs
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\STOPWATCH\obj\Debug\net8.0-windows\STOPWATCH.csproj.CoreCompileInputs.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\STOPWATCH\obj\Debug\net8.0-windows\STOPWATCH.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\STOPWATCH\obj\Debug\net8.0-windows\refint\STOPWATCH.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\STOPWATCH\obj\Debug\net8.0-windows\STOPWATCH.pdb
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\STOPWATCH\obj\Debug\net8.0-windows\STOPWATCH.genruntimeconfig.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\STOPWATCH\obj\Debug\net8.0-windows\ref\STOPWATCH.dll
