@@ -1,0 +1,16 @@
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\pizzaOrder\bin\Debug\net8.0-windows\pizzaOrder.exe
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\pizzaOrder\bin\Debug\net8.0-windows\pizzaOrder.deps.json
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\pizzaOrder\bin\Debug\net8.0-windows\pizzaOrder.runtimeconfig.json
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\pizzaOrder\bin\Debug\net8.0-windows\pizzaOrder.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\pizzaOrder\bin\Debug\net8.0-windows\pizzaOrder.pdb
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\pizzaOrder\obj\Debug\net8.0-windows\pizzaOrder.Form1.resources
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\pizzaOrder\obj\Debug\net8.0-windows\pizzaOrder.csproj.GenerateResource.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\pizzaOrder\obj\Debug\net8.0-windows\pizzaOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\pizzaOrder\obj\Debug\net8.0-windows\pizzaOrder.AssemblyInfoInputs.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\pizzaOrder\obj\Debug\net8.0-windows\pizzaOrder.AssemblyInfo.cs
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\pizzaOrder\obj\Debug\net8.0-windows\pizzaOrder.csproj.CoreCompileInputs.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\pizzaOrder\obj\Debug\net8.0-windows\pizzaOrder.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\pizzaOrder\obj\Debug\net8.0-windows\refint\pizzaOrder.dll
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\pizzaOrder\obj\Debug\net8.0-windows\pizzaOrder.pdb
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\pizzaOrder\obj\Debug\net8.0-windows\pizzaOrder.genruntimeconfig.cache
+C:\Users\deepanshi\OneDrive - Bow Valley College\Desktop\RapidApplication\pizzaOrder\obj\Debug\net8.0-windows\ref\pizzaOrder.dll
